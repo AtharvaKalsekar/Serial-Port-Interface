@@ -1,0 +1,12 @@
+c:\users\atharva\documents\visual studio 2017\Projects\Serial Port Interface\Serial Port Interface\bin\Debug\Serial Port Interface.exe.config
+c:\users\atharva\documents\visual studio 2017\Projects\Serial Port Interface\Serial Port Interface\bin\Debug\Serial Port Interface.exe
+c:\users\atharva\documents\visual studio 2017\Projects\Serial Port Interface\Serial Port Interface\bin\Debug\Serial Port Interface.pdb
+c:\users\atharva\documents\visual studio 2017\Projects\Serial Port Interface\Serial Port Interface\bin\Debug\Serial Port Interface.xml
+c:\users\atharva\documents\visual studio 2017\Projects\Serial Port Interface\Serial Port Interface\obj\Debug\Serial Port Interface.vbprojResolveAssemblyReference.cache
+c:\users\atharva\documents\visual studio 2017\Projects\Serial Port Interface\Serial Port Interface\obj\Debug\Serial_Port_Interface.frmMain.resources
+c:\users\atharva\documents\visual studio 2017\Projects\Serial Port Interface\Serial Port Interface\obj\Debug\Serial_Port_Interface.Resources.resources
+c:\users\atharva\documents\visual studio 2017\Projects\Serial Port Interface\Serial Port Interface\obj\Debug\Serial Port Interface.vbproj.GenerateResource.Cache
+c:\users\atharva\documents\visual studio 2017\Projects\Serial Port Interface\Serial Port Interface\obj\Debug\Serial Port Interface.exe
+c:\users\atharva\documents\visual studio 2017\Projects\Serial Port Interface\Serial Port Interface\obj\Debug\Serial Port Interface.xml
+c:\users\atharva\documents\visual studio 2017\Projects\Serial Port Interface\Serial Port Interface\obj\Debug\Serial Port Interface.pdb
+C:\Users\Atharva\Documents\Visual Studio 2017\Projects\Serial Port Interface\Serial Port Interface\obj\Debug\Serial_Port_Interface.Form2.resources
